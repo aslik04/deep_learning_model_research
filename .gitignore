@@ -1,63 +1,30 @@
 # =====================
-# Python
-# =====================
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.so
-
-# =====================
-# Virtual environments
-# =====================
-.venv/
-venv/
-env/
-ENV/
-
-# =====================
 # Jupyter
 # =====================
 .ipynb_checkpoints/
 
 # =====================
-# Data & datasets
+# Virtual environments (anywhere)
 # =====================
-data/
-datasets/
-raw_data/
-processed_data/
+.venv/
 
 # =====================
-# Model checkpoints / weights
+# Data & reports (project-specific)
 # =====================
-*.pt
-*.pth
-*.ckpt
-*.h5
-*.onnx
-*.joblib
+news-data/
+Progress Report/
 
 # =====================
-# Logs & experiment tracking
+# Baseline TFT experiment outputs
 # =====================
-logs/
-wandb/
-mlruns/
-tensorboard/
-tb_logs/
+baseline_tft_model/checkpoints/
+baseline_tft_model/job_outputs/
+baseline_tft_model/lightning_logs/
+baseline_tft_model/notebooks/
 
 # =====================
 # OS / editor junk
 # =====================
 .DS_Store
-Thumbs.db
 .vscode/
 .idea/
-
-# =====================
-# Temporary / cache
-# =====================
-.cache/
-tmp/
-*.tmp
