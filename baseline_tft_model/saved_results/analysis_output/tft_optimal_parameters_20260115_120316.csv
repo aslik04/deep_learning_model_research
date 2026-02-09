@@ -1,0 +1,8 @@
+Parameter,Optimal Value,Notes
+Lookback (max_encoder_length),20,Most frequent in top models
+Hidden Size,96,Size of hidden layers
+LSTM Layers,2,Number of LSTM layers in encoder
+Attention Heads,1,Multi-head attention heads
+Learning Rate (median),0.002120,Center of optimal range
+Learning Rate (IQR low),0.001717,25th percentile
+Learning Rate (IQR high),0.002724,75th percentile

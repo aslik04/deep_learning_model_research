@@ -1,0 +1,7 @@
+Experiment,Total Trials,Completed,Pruned,Pruning Rate (%)
+Price + Production,300,103,197,65.7
+Price Only,300,187,113,37.7
+Price + Weather,300,125,175,58.3
+All Features,300,132,168,56.0
+Price + Storage,300,119,181,60.3
+Price + USD,300,137,163,54.3

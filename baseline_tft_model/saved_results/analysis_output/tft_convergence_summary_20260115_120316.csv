@@ -1,0 +1,7 @@
+Experiment,Total Trials,Completed Trials,Final Best Val Loss,Trial Achieving 95% of Best,Efficiency (%)
+Price + Production,300,103,0.234777,232,77.3
+Price Only,300,187,0.245121,76,25.3
+Price + Weather,300,125,0.234662,74,24.7
+All Features,300,132,0.204424,230,76.7
+Price + Storage,300,119,0.234566,46,15.3
+Price + USD,300,137,0.231281,263,87.7

@@ -1,0 +1,15 @@
+{
+  "best_value": 0.23456576466560364,
+  "best_params": {
+    "max_encoder_length": 30,
+    "batch_size": 32,
+    "learning_rate": 0.0023453345078533654,
+    "gradient_clip_val": 0.25,
+    "use_weight_decay": false,
+    "hidden_size": 128,
+    "attention_head_size": 8,
+    "hidden_continuous_size": 16,
+    "dropout": 0.15439706937662953,
+    "lstm_layers": 2
+  }
+}

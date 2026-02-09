@@ -1,0 +1,12 @@
+{
+  "batch_size": 0.4674023241540636,
+  "attention_head_size": 0.2780878112227517,
+  "hidden_size": 0.09716339125525655,
+  "use_weight_decay": 0.03697748837582266,
+  "hidden_continuous_size": 0.026734332520956226,
+  "lstm_layers": 0.023718847112966554,
+  "max_encoder_length": 0.02283403896207917,
+  "learning_rate": 0.020755496112817382,
+  "gradient_clip_val": 0.014794513478182909,
+  "dropout": 0.011531756805103231
+}
