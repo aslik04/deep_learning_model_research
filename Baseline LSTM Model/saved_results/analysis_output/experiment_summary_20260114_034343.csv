@@ -1,0 +1,7 @@
+Experiment,Total Trials,Completed,Pruned,Completion Rate (%),Pruning Rate (%),Best Val Loss,Mean Val Loss,Std Val Loss,Best Test MAE,Best Test RMSE,Best Test MAPE (%),Best Test DA (%)
+Price Only,300,129,171,43.0,57.0,0.090797,0.1066,0.0731,,,,
+Price + Storage,1000,312,688,31.2,68.8,0.093403,0.1051,0.0589,,,,
+Price + Production,1000,595,405,59.5,40.5,0.098212,0.1139,0.0555,0.2143,0.6633,7.22,47.91
+Price + USD,300,171,129,57.0,43.0,0.104384,0.1416,0.1683,0.2333,0.7172,7.51,47.37
+Price + Weather,300,178,122,59.3,40.7,0.108346,0.133,0.0404,0.2109,0.6973,6.94,48.41
+All Features,300,131,169,43.7,56.3,0.118339,0.2156,0.3106,0.2276,0.7189,7.21,46.29

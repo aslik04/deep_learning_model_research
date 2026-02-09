@@ -1,0 +1,7 @@
+Experiment,Total Trials,Completed,Pruned,Pruning Rate (%),Mean Pruned Epoch,Median Pruned Epoch
+Price Only,300,129,171,57.0,,
+Price + Storage,1000,312,688,68.8,,
+Price + Production,1000,595,405,40.5,5.0,5.0
+Price + USD,300,171,129,43.0,5.4,5.0
+Price + Weather,300,178,122,40.7,5.0,5.0
+All Features,300,131,169,56.3,5.2,5.0

@@ -1,0 +1,8 @@
+Parameter,Optimal Value,Notes
+Lookback,45,Most frequent in top models
+Batch Size,64,Both 32 and 64 work well
+Layers,1,Single layer preferred
+Dropout,0.0 - 0.05,Minimal regularization needed
+Learning Rate (median),0.002534,Center of optimal range
+Learning Rate (IQR low),0.002110,25th percentile
+Learning Rate (IQR high),0.002742,75th percentile
