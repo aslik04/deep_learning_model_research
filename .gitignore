@@ -14,6 +14,17 @@
 news-data/
 Progress Report/
 
+# API keys / credentials
+*.json
+!package.json
+!tsconfig.json
+
+# Large data files
+*.parquet
+news_data/*.parquet
+news_data/gdelt_raw_urls.parquet
+news_data/energy_news_signal_2015_2026.parquet
+
 # =====================
 # Baseline TFT experiment outputs
 # =====================
