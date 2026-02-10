@@ -21,9 +21,12 @@ Progress Report/
 
 # Large data files
 *.parquet
-news_data/*.parquet
-news_data/gdelt_raw_urls.parquet
-news_data/energy_news_signal_2015_2026.parquet
+
+# Slurm / job logs
+*.err
+*.out
+news_data/*.err
+news_data/*.out
 
 # =====================
 # Baseline TFT experiment outputs
