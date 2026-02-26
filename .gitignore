@@ -35,6 +35,10 @@ baseline_tft_model/checkpoints/
 baseline_tft_model/job_outputs/
 baseline_tft_model/lightning_logs/
 baseline_tft_model/notebooks/
+Final Report/
+marking and feedback/
+multimodal_non_rag_tft_model/saved_results
+cross_modal_attention_model/__pycache__
 
 # =====================
 # OS / editor junk
