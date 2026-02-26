@@ -37,6 +37,13 @@ baseline_tft_model/lightning_logs/
 baseline_tft_model/notebooks/
 
 # =====================
+# Multimodal Non-RAG TFT experiment outputs
+# =====================
+multi_modal_non_rag_tft_model/saved_results/
+multi_modal_non_rag_tft_model/lightning_logs/
+multi_modal_non_rag_tft_model/slurm_logs/
+
+# =====================
 # OS / editor junk
 # =====================
 .DS_Store
